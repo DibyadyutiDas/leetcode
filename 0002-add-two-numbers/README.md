@@ -44,5 +44,9 @@ It is guaranteed that the list represents a number that does not have leading ze
 
 ---
 
+## Submission Stats
+- **Runtime**: 0ms (Beats 100.00%)
+- **Memory**: 77.17MB (Beats 100.00%)
+
 ---
 *Synced automatically with [GitCode](https://github.com).*
