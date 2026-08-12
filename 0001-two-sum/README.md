@@ -52,7 +52,7 @@ Follow-up: Can you come up with an algorithm that is less than O(n2) time comp
 
 ## Submission Stats
 - **Runtime**: 3ms (Beats 100%)
-- **Memory**: N/A
+- **Memory**: 14.12MB (Beats 100%)
 
 ---
 *Synced automatically with [GitCode](https://github.com).*
