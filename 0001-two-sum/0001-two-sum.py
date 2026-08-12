@@ -3,7 +3,8 @@
                     return {i, j};
                 }
             }
-        }
-        return {}; // No solution found
-    }
-};
+        int n = nums.size();
+        for (int i = 0; i < n - 1; i++) {
+public:
+    vector<int> twoSum(vector<int>& nums, int target) {
+class Solution {
