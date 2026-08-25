@@ -7,3 +7,7 @@
         return new int[]{};
     }
 }
+        for (int i = 0; i < n - 1; i++) {
+        int n = nums.length;
+    public int[] twoSum(int[] nums, int target) {
+class Solution {
